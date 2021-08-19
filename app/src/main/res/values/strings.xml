@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Youtube Downloader</string>
+    <string name="videos">Videos</string>
+    <string name="enter_video_link">Enter Video Link</string>
+    <string name="reset_now">Reset Now</string>
+    <string name="mp3">MP3</string>
+    <string name="mp4">MP4</string>
+    <string name="m4a">M4A</string>
+    <string name="no_downloads">No Downloads</string>
+    <string name="error_reasons">Error Reasons</string>
+    <string name="arrow"><![CDATA[->]]></string>
+    <string name="video_is_age_restricted_videos">Video is Age restricted videos</string>
+    <string name="unavailable_in_your_country">Unavailable in your country</string>
+    <string name="your_internet_slow_or_not_working">Your Internet Slow or Not Working</string>
+    <string name="ok">OK</string>
+    <string name="invalid_url_link">Invalid Url Link</string>
+    <string name="remove_from_downloads">Remove From Downloads</string>
+    <string name="share">Share</string>
+    <string name="property">Details</string>
+    <string name="remove_from_storage">Remove From Storage</string>
+    <string name="size">Size :</string>
+    <string name="path">Path :</string>
+    <string name="name">name  :</string>
+    <string name="downloads">Downloads</string>
+    <string name="cear_all_downloads">Cear All Downloads</string>
+</resources>
